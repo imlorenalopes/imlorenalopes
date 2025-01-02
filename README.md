@@ -28,6 +28,7 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" alt="R" width="40" height="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="40" height="40"/>
 </p>
 <div align="rigth">  
 <a href="https://www.linkedin.com/in/lorena-lopes-a9b4b71b1/" target="_blank"> 
