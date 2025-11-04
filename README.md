@@ -1,7 +1,7 @@
 l## Oii! Sou a Lorena <3l
-- 🐻 Currently, I work with data products
-- 🐼 I focus on data analysis and I'm expanding my knowledge in ETL, data modeling, and data visualization
-- 🐻‍❄️ Pronouns: she/her
+- Currently, I work with data products
+- I focus on data analysis and I'm expanding my knowledge in ETL, data modeling, and data visualization
+- Pronouns: she/her
 <picture>  
 <source    
 srcset="https://github-readme-stats.vercel.app/api?username=imlorenalopes&show_icons=true&theme=radical"    
