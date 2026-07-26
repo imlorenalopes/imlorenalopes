@@ -94,9 +94,9 @@
 
 <img align="left" width="163" src="https://i.imgur.com/59NsGSV.png" alt="A Imperatriz" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imlorenalopes&theme=radical&title_color=e721af&text_color=ffffff&bg_color=0d1117&icon_color=e721af&border_color=e721af" width="26%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imlorenalopes&theme=radical&title_color=e721af&text_color=ffffff&bg_color=0d1117&chart_color=e721af&border_color=e721af" width="26%" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imlorenalopes&theme=radical&title_color=e721af&text_color=ffffff&bg_color=0d1117&chart_color=e721af&border_color=e721af&utcOffset=-3" width="26%" alt="Commits por horário" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imlorenalopes&theme=radical&title_color=e721af&text_color=ffffff&bg_color=0d1117&icon_color=e721af&border_color=e721af" width="24%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imlorenalopes&theme=radical&title_color=e721af&text_color=ffffff&bg_color=0d1117&chart_color=e721af&border_color=e721af" width="24%" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imlorenalopes&theme=radical&title_color=e721af&text_color=ffffff&bg_color=0d1117&chart_color=e721af&border_color=e721af&utcOffset=-3" width="24%" alt="Commits por horário" />
 
 <br>
 
