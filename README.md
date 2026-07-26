@@ -100,9 +100,9 @@
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imlorenalopes&theme=radical&title_color=e721af&text_color=ffffff&bg_color=0d1117&icon_color=e721af&chart_color=e721af&border_color=e721af" height="102" alt="Contribuições" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imlorenalopes&theme=radical&title_color=e721af&text_color=ffffff&bg_color=0d1117&icon_color=e721af&chart_color=e721af&border_color=e721af" height="101.5" alt="Contribuições" />
 <!-- Domínio antigo (herokuapp) está fora do ar; o projeto migrou para demolab.com -->
-<img src="https://streak-stats.demolab.com/?user=imlorenalopes&theme=dark&background=0D1117&border=E721AF&stroke=E721AF&ring=E721AF&fire=E721AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E721AF&sideLabels=E721AF&dates=FFFFFF" height="102" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=imlorenalopes&theme=dark&background=0D1117&border=E721AF&stroke=E721AF&ring=E721AF&fire=E721AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E721AF&sideLabels=E721AF&dates=FFFFFF" height="101.5" alt="GitHub Streak Stats" />
 
 <br clear="left">
 
